@@ -33,8 +33,8 @@ p { margin: 0; }
 }
 
 #player {
-  	width: 400px;
-	  height: 400px;
+  	width: 300px;
+	  height: 300px;
 	  background: #fff;
   	border-radius: 50%;
 	  overflow: hidden;
@@ -352,7 +352,7 @@ label.to-lyrics-label {
 	  #progress { width: 160px; height: 160px; margin-top: -5px; margin-left: -5px; }
 	  label, .lyrics, .scroll { display: none; }
 	  .cover { padding-top: 46px; }
-	  button { margin: 4px; }
+	  button { margin: 2px; }
 	  button:first-of-type, button:last-of-type { display: none; }
 	  input[type='range'] { display: block; margin-top: -76px; height: 1px; }
 	  .info { margin-top: 70px; }
