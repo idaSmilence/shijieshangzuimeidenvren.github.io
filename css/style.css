@@ -347,15 +347,4 @@ label.to-lyrics-label {
 }
 
 /* Media Queries */
-@media all and (max-width: 768px) {
-	  #container, #player { width: 150px; height: 150px;}
-	  #progress { width: 160px; height: 160px; margin-top: -5px; margin-left: -5px; }
-	  label, .lyrics, .scroll { display: none; }
-	  .cover { padding-top: 46px; }
-	  button { margin: 2px; }
-	  button:first-of-type, button:last-of-type { display: none; }
-	  input[type='range'] { display: block; margin-top: -76px; height: 1px; }
-	  .info { margin-top: 70px; }
-	  .song { font-size: 12px; }
-	  .author { font-size: 10px; }
-}
+
